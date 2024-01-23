@@ -6,7 +6,7 @@ Login: Sharad <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
+<img src="https://github.com/NickTamang/ATOS-Automatic-table-odering-system-cart-payment-gateway-implementation-using-PHP-mysql/blob/main/images/index%20screenshot.png">
 Find how the project looks in <b>live</b> at <a href="https://www.atos.com.ubersewa.com">click here</a>
 
 # Technologies Used
@@ -36,7 +36,7 @@ Find how the project looks in <b>live</b> at <a href="https://www.atos.com.ubers
 # Authors
 ## Kaushik Jadhav
 <ul>
-<li>Github:https://github.com/Sharad Thing</li>
+<li>Github:https://github.com/Sharadthing</li>
 <li>Medium:https://medium.com/@nicktamang</li>
 <li>LinkedIn:https://www.linkedin.com/in/sharadthing/</li>
 <li>Portfolio:https://github.com/NickTamang</li>
