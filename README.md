@@ -2,12 +2,12 @@
 Online Food Ordering System Website using basic PHP, SQL, HTML & CSS. You can use any one of XAMPP, WAMP or LAMP server to run the Web App on your local machine. It has a food ordering module for a customer. It also provides menu, orders and user management module for admin.
 
 Admin Login & Password (You can change this in phpmyadmin):<br/>
-Login: admin <br>
+Login: Sharad <br>
 Password: admin<br>
 
 # Screenshots
 <img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png">
-Find how the project looks in <b>live</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+Find how the project looks in <b>live</b> at <a href="https://www.atos.com.ubersewa.com">click here</a>
 
 # Technologies Used
 <ul>
