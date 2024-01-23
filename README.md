@@ -36,8 +36,8 @@ Find how the project looks in <b>live</b> at <a href="https://www.atos.com.ubers
 # Authors
 ## Kaushik Jadhav
 <ul>
-<li>Github:https://github.com/Sharadthing</li>
-<li>Medium:https://medium.com/@nicktamang</li>
+<li>Github:https://github.com/nicktamang</li>
+<li>Github 2nd:https://github.com/sharadthing</li>
 <li>LinkedIn:https://www.linkedin.com/in/sharadthing/</li>
 <li>Portfolio:https://github.com/NickTamang</li>
 </ul>
