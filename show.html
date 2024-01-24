@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Images</title>
+</head>
+<body>
+    <h2>Uploaded Images</h2>
+
+    <?php
+    include 'download.php';
+
+    $images = getImages();
+    
+    if (!empty($images)) {
+        foreach ($images as $image) {
+            echo '<img  src="data:image/jpeg;base64,' . base64_encode($image['image']) . '" alt="' . $image['name'] . '" /><br>';
+        }
+    } else {
+        echo "No images found.";
+    }
+    ?>
+</body>
+</html>

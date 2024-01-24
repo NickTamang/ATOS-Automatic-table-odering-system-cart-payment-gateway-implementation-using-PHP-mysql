@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Upload</title>
+</head>
+<body>
+    <h2>Image Upload Form</h2>
+
+    <form action="upload.php" method="post" enctype="multipart/form-data">
+        <label for="name">Name:</label>
+        <input type="text" name="name" required>
+
+        <label for="image">Choose an image:</label>
+        <input type="file" name="image" accept="image/jpeg, image/png" required>
+
+        <button type="submit" name="submit">Upload</button>
+    </form>
+</body>
+</html>
