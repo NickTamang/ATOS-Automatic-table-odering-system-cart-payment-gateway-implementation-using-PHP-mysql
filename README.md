@@ -33,7 +33,7 @@ Find how the project looks in <b>live</b> at <a href="https://www.atos.com.ubers
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 
-# Authors
+# Author
 ## Sharad Thing
 <ul>
 <li>Github:https://github.com/nicktamang</li>
